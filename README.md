@@ -1,15 +1,26 @@
 # Проект: Путешествие по России
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+### Первый проект, без препроцессоров, но с гридами ;)
+* BEM
+* Flex
+* Grid
+* Transition
+* Pseudo-class
+* Calc() adaptive
+* Mobile First
+* &nbsp;
 
-**Интро**
+## Ссылочки
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+[**BEM**](https://ru.bem.info/methodology/quick-start/)
+[**Flex**](https://developer.mozilla.org/ru/docs/Web/CSS/flex)
+[**Grid**](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+[**Transition**](https://developer.mozilla.org/ru/docs/Web/CSS/transition)
+[**Pseudo-class**](https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-classes)
+[**Calc() adaptive**](https://vc.ru/dev/178033-dinamicheskoe-masshtabirovanie-elementov-v-css)
+[**Mobile First**](https://zellwk.com/blog/how-to-write-mobile-first-css/)
+[**&nbsp;**](https://www.artlebedev.ru/typograf/)
+
 
 **Figma**
 
@@ -17,7 +28,10 @@
 
 **Картинки**
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+[Как оптимизировать картинки?-->](https://tinypng.com/)
 
-Удачи!
+## Прелести Git?
+
+* checkout -b
+* merge 
+* --delete 
