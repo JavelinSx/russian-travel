@@ -1,0 +1,33 @@
+.cover {
+    position: relative;
+    min-width: 320px;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    }
+
+.cover:hover .cover__background{
+    opacity: .8;
+    }
+
+@media screen and (min-width:320px) and (max-width: 767px) { 
+    .cover {
+        min-width: calc(320px + (1 * (100vw - 320px)));      
+    }
+}
+@media screen and (min-width:768px) and (max-width: 1023px) { 
+    .cover {
+        min-width: calc(768px + (1 * (100vw - 768px)));
+    }
+}
+@media screen and (min-width:1024px) and (max-width: 1279px) { 
+    .cover {
+        min-width: calc(1024px + (0.625 * (100vw - 1024px)));
+    }
+}
+@media screen and (min-width:1280px) and (max-width: 100vw) { 
+    .cover {
+        min-width: 1184px;
+    }
+}
