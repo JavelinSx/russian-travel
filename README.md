@@ -35,3 +35,4 @@
 * checkout -b
 * merge 
 * --delete 
+* gh-pages
