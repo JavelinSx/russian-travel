@@ -24,7 +24,7 @@
         max-width: calc(288px + (0.68233 * (100vw - 320px)));
         font-size: calc(32px + (0.0895 * (100vw - 320px)));
         line-height: calc(35px + (0.091723 * (100vw - 320px)));
-        padding-bottom: calc(16px + (0.0358 * (100vw - 320px))); 
+        padding-bottom: calc(16px + (0.0358 * (100vw - 320px)));
         padding-top: calc(33px + (0.1835 * (100vw - 320px)));
     }
 
