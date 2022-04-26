@@ -1,6 +1,8 @@
 .intro{
     min-width: 288px;
-    }   
+    margin: 0 auto;
+    padding-bottom: 64px;   
+}   
 @media screen and (min-width: 320px) and (max-width: 767px) { 
 
     .intro{
@@ -13,6 +15,7 @@
 
     .intro{
         align-self: flex-start;
+        padding-bottom: 90px;
         width: 720px;
     }
 
@@ -20,6 +23,9 @@
 @media screen and (min-width:1024px) and (max-width: 1279px) { 
 
     .intro{
+        margin: 0;
+        padding-left: calc(48px + (0.391 * (100vw - 1024px)));
+        padding-bottom: 90px;
         width: 690px;
         align-self: flex-start;
     }
@@ -28,10 +34,10 @@
 @media screen and (min-width:1280px) and (max-width: 100vw) { 
 
     .intro{
-        align-self: flex-start;
+        margin: 0;
+        padding-bottom: 90px;
         width: 690px;
-        padding-left: calc(1px + (0.5 * (100vw - 1280px)));
-        
+        padding-left: calc(148px + (0.519 * (100vw - 1280px)))
     }
 
 }

@@ -1,0 +1,8 @@
+.places__place-grid{
+    margin: 0 auto;
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+.places__place-grid:nth-child(3){
+    padding: 0;
+}

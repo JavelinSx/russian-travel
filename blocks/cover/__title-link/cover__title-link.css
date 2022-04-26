@@ -1,8 +1,13 @@
 .cover__title-link{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    justify-content: center;
     text-decoration: none;
     transition: opacity .5s;
     color: #FFF;
-}
-.cover__title-link:hover{
-    opacity: .8;
+    height: 62.5vw;
+    max-height: 740px;
 }

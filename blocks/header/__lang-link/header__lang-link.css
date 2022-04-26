@@ -3,22 +3,9 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 20px;
-    text-align: right;
-    text-decoration-line: underline;
-    text-decoration-color: transparent;
     color: #FFF;
-    padding-right: 18px;
-    padding-top: 14px;
-    padding-bottom: 6px;
-    transition: opacity .5s, text-decoration .5s;
-    }
+    text-decoration: none;
 
-.header__lang-link:hover{
-    opacity: .8;
-    text-decoration: underline;
-}
-.header__lang-link:nth-child(2){
-    padding-right: 0;
 }
 @media screen and (min-width:768px) and (max-width: 100vw) { 
 
