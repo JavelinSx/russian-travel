@@ -1,12 +1,12 @@
-.places__place-grid__item{
+.places__item{
     padding-bottom: 50px;
 }
-.places__place-grid__item:nth-last-child(1){
+.places__item:nth-last-child(1){
     padding-bottom: 0;
 }
 @media screen and (min-width:768px) and (max-width: 1023px) { 
 
-    .places__place-grid__item{
+    .places__item{
         width: 720px;
         display: grid;
         grid-template-areas: 
@@ -20,7 +20,7 @@
 }
 @media screen and (min-width:1024px) and (max-width: 1279px) { 
 
-    .places__place-grid__item{
+    .places__item{
         width: 928px;
         display: grid;
         padding-bottom: 78px;
@@ -34,7 +34,7 @@
 }
 @media screen and (min-width:1280px) and (max-width: 100vw) { 
 
-    .places__place-grid__item{
+    .places__item{
         width: 984px;
         display: grid;
         padding-bottom: 78px;

@@ -1,4 +1,4 @@
-.places__place-grid__paragraph{
+.places__paragraph{
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -6,20 +6,20 @@
     padding-bottom: 25px;
 
 }
-.places__place-grid__paragraph:nth-last-child(1){
+.places__paragraph:nth-last-child(1){
 
     padding-bottom: 0;
 }
 @media screen and (min-width:320px) and (max-width: 767px) { 
 
-    .places__place-grid__paragraph{
+    .places__paragraph{
 
     }
 
 }
 @media screen and (min-width:768px) and (max-width: 1023px) { 
 
-    .places__place-grid__paragraph{
+    .places__paragraph{
 
     }
 
@@ -28,7 +28,7 @@
 @media screen and (min-width:1024px) and (max-width: 1279px) { 
 
 
-    .places__place-grid__paragraph{
+    .places__paragraph{
 
         font-size: 18px;
         line-height: 29px;
@@ -38,7 +38,7 @@
 }
 @media screen and (min-width:1280px) and (max-width: 100vw) { 
 
-    .places__place-grid__paragraph{
+    .places__paragraph{
 
     }
 
