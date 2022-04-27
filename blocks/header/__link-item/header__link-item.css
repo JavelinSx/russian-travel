@@ -1,0 +1,6 @@
+.header__link-item{
+    margin-right: 18px;
+}
+.header__link-item:nth-last-child(1){
+    margin-right: 0;
+}

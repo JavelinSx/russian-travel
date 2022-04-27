@@ -1,8 +1,8 @@
 .cover__title-link{
+    display: flex;
+    flex-direction: column;
+    position: relative;
     text-decoration: none;
     transition: opacity .5s;
     color: #FFF;
-}
-.cover__title-link:hover{
-    opacity: .8;
 }

@@ -1,4 +1,6 @@
 .cover__title {
+    margin: 0;
+    max-width: 288px;
     position: relative;
     font-style: normal;
     font-weight: 900;
@@ -13,7 +15,6 @@
         max-width: 560px;
         font-size: 72px;
         line-height: 76px;
-        padding-bottom: 32px;
     }
 
 
@@ -24,31 +25,6 @@
         max-width: calc(288px + (0.68233 * (100vw - 320px)));
         font-size: calc(32px + (0.0895 * (100vw - 320px)));
         line-height: calc(35px + (0.091723 * (100vw - 320px)));
-        padding-bottom: calc(16px + (0.0358 * (100vw - 320px))); 
-        padding-top: calc(33px + (0.1835 * (100vw - 320px)));
     }
-
-}
-@media screen and (min-width:768px) and (max-width: 1023px) { 
-
-    .cover__title {
-        padding-top: calc(115px + (0.3125 * (100vw - 768px)));
-    }
-
-
-}
-@media screen and (min-width:1024px) and (max-width: 1279px) { 
-
-    .cover__title {
-        padding-top: calc(195px + (0.195 * (100vw - 1024px)));
-    }
-
-}
-@media screen and (min-width:1280px) and (max-width: 100vw) { 
-
-    .cover__title {
-        padding-top: 245px;
-    }
-
 
 }
