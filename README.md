@@ -1,4 +1,4 @@
-# Проект: [**https://javelinsx.github.io/russian-travel/**](Путешествия по россии)
+# Проект: [Путешествия по России](**https://javelinsx.github.io/russian-travel/**)
 
 ### Первый проект, без препроцессоров, но с гридами ;)
 * BEM
