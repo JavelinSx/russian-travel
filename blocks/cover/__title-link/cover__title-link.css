@@ -1,6 +1,9 @@
 .cover__title-link{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+
+    width: 100vw;
     position: relative;
     text-decoration: none;
     transition: opacity .5s;

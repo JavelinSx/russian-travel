@@ -35,7 +35,7 @@
 
     .intro{
         margin: 0;
-        padding-bottom: 90px;
+        padding-bottom: 92px;
         width: 690px;
         padding-left: calc(148px + (0.519 * (100vw - 1280px)));
     }
