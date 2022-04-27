@@ -1,4 +1,5 @@
 .footer__links {
+    margin: 0;
     padding-bottom: 48px;
     list-style-type: none;
     padding-inline-start: 0;
