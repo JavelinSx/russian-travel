@@ -15,7 +15,6 @@
             width: calc(288px + (0.1611 * (100vw - 320px)));
             font-size: 14px;
             line-height: 16px;
-            width: 288px;
         }
     
     }
